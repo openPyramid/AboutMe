@@ -15,5 +15,6 @@
     \nStyle the TextView with NameStyle, and add additional styling to separate the scrollable text from the edges of the screen.
     \nAdd some spacing between the lines using the lineSpacingMultiplier property to the TextView.
     \nandroid:lineSpacingMultiplier="1.2</string>
+    <string name="what_is_your_nickename">What is your nickname?</string>
 
 </resources>
