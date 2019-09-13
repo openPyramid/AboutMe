@@ -2,4 +2,18 @@
     <string name="app_name">About Me</string>
     <string name="naem">David Fan</string>
     <string name="yellow_star">Yellow star</string>
+    <string name="bio">Now it is your turn to complete this exercise.
+    \n\nAdd a ScrollView with a TextView showing information about yourself to the layout.
+    \nStyle the TextView with NameStyle, and add additional styling to separate the scrollable text from the edges of the screen.
+    \nAdd some spacing between the lines using the lineSpacingMultiplier property to the TextView.
+    \nandroid:lineSpacingMultiplier="1.2"Now it is your turn to complete this exercise.
+    \n\nAdd a ScrollView with a TextView showing information about yourself to the layout.
+    \nStyle the TextView with NameStyle, and add additional styling to separate the scrollable text from the edges of the screen.
+    \nAdd some spacing between the lines using the lineSpacingMultiplier property to the TextView.
+    \nandroid:lineSpacingMultiplier="1.2Now it is your turn to complete this exercise.
+    \n\nAdd a ScrollView with a TextView showing information about yourself to the layout.
+    \nStyle the TextView with NameStyle, and add additional styling to separate the scrollable text from the edges of the screen.
+    \nAdd some spacing between the lines using the lineSpacingMultiplier property to the TextView.
+    \nandroid:lineSpacingMultiplier="1.2</string>
+
 </resources>
